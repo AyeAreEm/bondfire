@@ -29,6 +29,7 @@ body {
     grid-area: header;
     overflow: hidden;
     background: var(--sideColour);
+    border-bottom: 1px solid black;
 }
   
 .item1 p, .item1 button {
@@ -42,7 +43,7 @@ body {
     width: 70%;
 }
 
-.item1 button {
+button {
     font-family: 'Mukta', sans-serif;
     border: none;
     background-color: #404040;
@@ -53,7 +54,7 @@ body {
     /* fix this part later to look responsive depending on device */
 }
 
-.item1 button:hover, .item1 p:hover{
+button:hover, .item1 p:hover{
     cursor: pointer;
     /* background-color: #404040; */
 }
@@ -61,13 +62,15 @@ body {
 .item2 {
     grid-area: main;
     height: 60%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 100%;
     width: 100%;
 }
 
-.item2 h1 {
+.item2 p:first-child {
     margin-left: 10%;
+    margin-top: 10%;
+    font-size: 35px;
 }
 
 .item3 {
@@ -77,6 +80,7 @@ body {
     bottom: 0%;
     width: 100%;
     height: 10%;
+    border-top: 1px solid black;
 }
 
 .item3 h1 {
