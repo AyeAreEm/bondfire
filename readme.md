@@ -11,6 +11,7 @@
 
 # Handbook
     - Qr code to the website
+    ![qr code](https://cdn.discordapp.com/attachments/985537665216680087/1077054396665430046/image.png)
     - Design the layout of it (implement it)
     - Include names and description
     -
