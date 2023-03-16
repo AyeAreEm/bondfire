@@ -18,8 +18,10 @@
 ![qr code](https://cdn.discordapp.com/attachments/985537665216680087/1077054396665430046/image.png)
 
 # Podcast story / episode ideas
-    - Allaighns uncle story
     - Ralphs cousin story
+    - Intrusive thoughts
+    - Adrians bald spot story
+    
     - Try not to laugh side by side episode and funny video hahas (video: )
     
 `we can say that these are embarassing stories and relate it to wellbeing because we can freely talk about them - positive mindset`
